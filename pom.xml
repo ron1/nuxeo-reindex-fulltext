@@ -14,7 +14,7 @@
   </parent>
 
   <artifactId>nuxeo-reindex-fulltext</artifactId>
-  <version>8.2-CKS2-SNAPSHOT</version>
+  <version>8.2-CKS2</version>
 
   <dependencies>
     <dependency>
